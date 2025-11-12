@@ -14,6 +14,7 @@ arch:
 - i386
 image: https://hub.docker.com/r/loelabs/shf-ha-addon-{arch}:0.0.0-1vIyky
 startup: application
+stage: stable
 ingress: true
 panel_icon: mdi:floor-plan
 panel_title: Smart Home Floorplan
