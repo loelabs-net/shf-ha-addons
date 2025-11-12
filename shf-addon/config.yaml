@@ -1,6 +1,6 @@
-name: Smart Home Floorplan
+name: Smart Home Floorplan (dev)
 description: Smart Home Floorplan add-on
-version: 0.0.0-1vIzI0
+version: 0.0.0-1vIza4
 slug: smarthomefloorplan
 init: false
 hassio_api: true
@@ -12,7 +12,7 @@ arch:
 - armhf
 - armv7
 - i386
-image: loelabs/shf-ha-addon-{arch}:0.0.0-1vIzI0
+image: loelabs/shf-ha-addon-{arch}:0.0.0-1vIza4
 startup: application
 stage: stable
 ingress: true
