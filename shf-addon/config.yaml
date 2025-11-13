@@ -1,6 +1,6 @@
 name: Smart Home Floorplan (dev)
 description: Smart Home Floorplan add-on
-version: 0.0.0-t5n2vz
+version: 0.0.0-t5n32r
 slug: smarthomefloorplan
 init: false
 hassio_api: true
