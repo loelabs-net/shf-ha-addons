@@ -1,29 +1,29 @@
-name: Smart Home Floorplan
+name: Smart Home Floorplan (edge)
 description: Smart Home Floorplan add-on
-version: 0.0.0
-slug: smarthomefloorplan
+version: 0.0.0-t5zw2a
+slug: smarthomefloorplan-edge
 init: false
 hassio_api: true
 homeassistant_api: true
 webui: http://[HOST]:[PORT:8099]/
 arch:
-  - aarch64
-  - amd64
-  - armhf
-  - armv7
-  - i386
-image: "docker.io/loelabs/shf-ha-addon-{arch}:0.0.0"
+- aarch64
+- amd64
+- armhf
+- armv7
+- i386
+image: docker.io/loelabs/shf-ha-addon-{arch}:0.0.0
 startup: application
 ingress: true
 panel_icon: mdi:floor-plan
-panel_title: Smart Home Floorplan
+panel_title: Smart Home Floorplan (edge)
 panel_admin: false
 backup: cold
 map:
-  - config:ro
-  - share:rw
-  - media:rw
-  - ssl:ro
+- config:ro
+- share:rw
+- media:rw
+- ssl:ro
 options:
   propertyId: ''
   accessToken: ''
@@ -31,5 +31,4 @@ options:
 schema:
   propertyId: str
   accessToken: str
-  versionCheckIntervalSeconds: "int(10,)"
-
+  versionCheckIntervalSeconds: int(10,)
