@@ -27,3 +27,6 @@ Important: This change-log is focused on the addon itself, and not the overall S
 ### Security
 - N/A
 
+## [0.0.1]
+
+Initial release
