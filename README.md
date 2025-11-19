@@ -21,7 +21,7 @@ Add this repository to Home Assistant Supervisor:
 1. Go to **Supervisor** → **Add-on Store**
 2. Click the three dots (⋮) in the top right
 3. Select **Repositories**
-4. Add this repository URL: `https://github.com/loelabs/shf-ha-addons`
+4. Add this repository URL: `https://github.com/loelabs-net/shf-ha-addons`
 5. The Smart Home Floorplan add-on will appear in the add-on store
 
 ## Documentation
