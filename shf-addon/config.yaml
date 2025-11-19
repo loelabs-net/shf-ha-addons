@@ -1,6 +1,6 @@
 name: Smart Home Floorplan (edge)
 description: Smart Home Floorplan add-on
-version: 0.0.0-t5zw2a
+version: 0.0.0-t5zw99
 slug: smarthomefloorplan-edge
 init: false
 hassio_api: true
