@@ -12,7 +12,7 @@ arch:
 - armhf
 - armv7
 - i386
-image: docker.io/loelabs/shf-ha-addon-{arch}:0.0.0
+image: docker.io/loelabs/shf-ha-addon-{arch}
 startup: application
 ingress: true
 panel_icon: mdi:floor-plan
