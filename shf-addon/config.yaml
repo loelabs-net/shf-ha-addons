@@ -15,6 +15,7 @@ arch:
 image: docker.io/loelabs/shf-ha-addon-{arch}
 startup: application
 ingress: true
+panel_icon: mdi:floor-plan
 panel_title: Smart Home Floorplan
 panel_admin: false
 backup: cold
