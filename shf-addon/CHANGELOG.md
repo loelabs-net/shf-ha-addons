@@ -8,7 +8,14 @@ Important: This change-log is focused on the addon itself, and not the overall S
 ## [Next]
 
 ### Changed
+-
+
+
+## [0.0.3]
+
+### Changed
 - Updated logo
+- Addon slug read from HA and passed to client
 
 
 ## [0.0.2]
