@@ -7,6 +7,12 @@ Important: This change-log is focused on the addon itself, and not the overall S
 
 ## [0.0.4]
 
+### Fixed
+- Websocket connections to addon are now being proxied correctly
+
+
+## [0.0.4]
+
 ### Changed
 - Addon can now serve Smart Home Floorplan Integration
 
