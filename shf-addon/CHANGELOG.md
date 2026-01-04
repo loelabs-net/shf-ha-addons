@@ -5,6 +5,12 @@ All notable changes to the Smart Home Floorplan add-on for Home Assistant will b
 Important: This change-log is focused on the addon itself, and not the overall Smart Home Floorplan product.
 
 
+## [0.0.4]
+
+### Changed
+- Addon can now serve Smart Home Floorplan Integration
+
+
 ## [0.0.3]
 
 ### Changed
