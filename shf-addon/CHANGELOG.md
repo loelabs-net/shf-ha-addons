@@ -5,6 +5,10 @@ All notable changes to the Smart Home Floorplan add-on for Home Assistant will b
 Important: This change-log is focused on the addon itself, and not the overall Smart Home Floorplan product.
 
 
+## [Next]
+- Fixed version checker creating orphaned database records and re-downloading assets every hour when the server reports an older version than the locally installed one
+
+
 ## [0.0.6]
 
 ### Changed
